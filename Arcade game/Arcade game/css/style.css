@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+   
+}
+
+#scoreboard {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#score {
+	font-size: 20px;
+	color: red;
+}
+
+#lives {
+	font-size: 20px;
+	color: red;
+}
+
+#livesboard {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+}
